@@ -10,6 +10,8 @@
 
 - Please Ensure That You Have Installed Flutter On Your Device. You Can Do This By Typing `flutter doctor` In Your Terminal. If You Get Any Error, Please Follow The Instructions Given By Flutter To Fix It.
 
+- Please Rename The Folder To `coin_toss_app`, After Cloning This Project. If Not Done, It Might Give Some Errors.
+
 - To Run The `main.dart` [Main File] File Under The `lib` Folder, Please Type `flutter run` In Your Terminal Or Press `F5` In Visual Studio Code.
 
 
